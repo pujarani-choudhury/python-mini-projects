@@ -31,7 +31,7 @@ while True:
     if op == '+':
         print("Result:", add(num1, num2))
     elif op == '-':
-        print("Result:", substact(num1, num2))
+        print("Result:", subtract(num1, num2))
     elif op == '*':
         print("Result:", multiply(num1, num2))
     elif op == '/':
