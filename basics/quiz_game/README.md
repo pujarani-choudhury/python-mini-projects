@@ -1,8 +1,15 @@
-# Python CLI Quiz Game
+# 🧠 Python CLI Quiz Game
 
-A simple command-line Python quiz game with multiple-choice questions.
+A fun **command-line quiz game** built in Python — test your knowledge with simple questions and instant feedback.
 
-## How to run
+## 🚀 Features
+- Multiple-choice questions
+- Score tracking and result display
+- Option to replay the quiz
+- Beginner-friendly, modular code
 
-```bash
-python quiz_game.py
+## ▶️ How to Run
+1. Open your terminal.
+2. Navigate to the folder:
+   ```bash
+   cd python_mini_projects/basics/quiz_game
