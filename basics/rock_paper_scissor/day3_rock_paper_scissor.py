@@ -22,7 +22,6 @@ def is_win(player, opponent):
 print(play())
 
 
-# --- Main Game Loop ---
 while True:
     print("\n Rock Paper Scissors Game ")
     print(play())
